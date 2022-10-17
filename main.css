@@ -743,3 +743,11 @@ Primary use:
     /*---------------------------------------------*/
 
 }
+
+.coming-soon strong {
+    color: #f0b303;
+}
+.coming-soon{
+    color: #0076a8;
+    font-weight: 500
+}
